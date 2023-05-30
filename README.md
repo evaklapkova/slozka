@@ -1,0 +1,2 @@
+# slozka
+Nová složka
